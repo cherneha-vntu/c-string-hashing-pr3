@@ -1,4 +1,4 @@
-# Practical Work 3
+# Practical Work 3: String Hashing and Duplicates in C
 
 This project is a laboratory/practical work for the "Computer Technologies and Programming" course. It contains a C program that identifies duplicate strings from a file by calculating string hashes.
 
