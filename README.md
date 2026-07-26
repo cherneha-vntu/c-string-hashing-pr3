@@ -4,22 +4,22 @@ This project is a laboratory/practical work for the "Computer Technologies and P
 
 ## Programs Included
 
-### 1. Duplicate Finder (`task.c`)
+### 1. Duplicate Finder (`main.c`)
 
 This program reads lines from `input.txt`, computes polynomial hashes for each line to identify exact duplicates, and then outputs any found duplicates.
 
 ## How to Compile and Run
 
 ```bash
-gcc task.c -o out
-./out
+gcc main.c -o main
+./main
 ```
 
 ## Example Usage
 
 ```text
 echo -e "hello\nworld\nhello\ntest\nworld\nfoo" > input.txt
-./out
+./main
 Знайдені дублікати:
 Дублікат: world
 Дублікат: hello
