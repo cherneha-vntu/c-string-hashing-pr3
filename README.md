@@ -26,6 +26,8 @@ echo -e "hello\nworld\nhello\ntest\nworld\nfoo" > input.txt
 Дублікат: hello
 ```
 
+![Execution demonstration](screenshot.png)
+
 ## Contributing
 
 Contributions are welcome and appreciated! Here's how you can contribute:
