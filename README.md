@@ -17,6 +17,7 @@ gcc main.c -o main
 
 ## Example Usage
 
+Example run of **`main.c`**:
 ```text
 echo -e "hello\nworld\nhello\ntest\nworld\nfoo" > input.txt
 ./main
